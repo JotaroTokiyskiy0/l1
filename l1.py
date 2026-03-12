@@ -1,2 +1,2 @@
 print("С новым годом")
-print("Это строка из master")
+print("Это объединённая строка из master и conflict-branch")
