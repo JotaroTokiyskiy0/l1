@@ -1,2 +1,2 @@
 def bad_function( ):
-    print(  "Hello"  )
+    print(  "Hello" )
